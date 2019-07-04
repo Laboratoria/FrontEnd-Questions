@@ -7,7 +7,7 @@
 
 3. Si tienes tres `console.log` consecutivos, pero el segundo está dentro de un `setTimeout`, terminará imprimiéndose al final de todos. Explica por qué.
 
-4. ¿Cuándo y por qué se deben usar `function declarations` y `function expressions`? 
+4. ¿Cuándo y por qué se deben usar `function declarations` y `function expressions`?
 
 5. Explica con un ejemplo  cómo manejas llamadas asíncronas con `callbacks`, `promises`,
 

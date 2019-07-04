@@ -1,8 +1,8 @@
 # Mayores y menores
 
-## Descripción 
+## Descripción
 
-Dado el siguiente arreglo de números: 
+Dado el siguiente arreglo de números:
 ```
 arrayNumbers = [-17, 24, 9, 32, 100, -80, 28, 0, -10]
 ```

@@ -17,7 +17,7 @@ Para esto hay tres puntos importantes que contrastar y observar:
 El proceso podemos dividirlo en: 
 - **Presentación**
 
-  En este punto es presentarte y que lx candidatx te pueda contar brevemente su experiencia profesional. 
+  En este punto, te persentas como entrevistadorx y este preguntar por la experiencia en desarrollo de la candidata. Tratar que sea breve, clara y aporte al puesto al que postula. 
 
 - **Trivia / Preguntas Teórico Conceptuales**
 
@@ -34,11 +34,11 @@ El proceso podemos dividirlo en:
 
 - **Ejercicio**
 
-  Este ejercicio normalmente tiene dos factores de complejidad. Esta complejidad suele ser el diseño de la solución (Cómo afronta un problema desconocido). Y en algunos casos, si el entrevistador lo considera necesario algún tipo de restricción al uso regular del lenguaje: Uso de papel/lápiz o algún tipo de documento que no tenga intellisense para el código; restricción de uso algunas funciones como `.map`, `.forEach` o similares. Sin ir a extremos. Un punto interesante de observar es que tan abierta esta la persona a recibir pistas, guías o recomendaciones, que tan cómoda esta en actividades similares como pair programming.
+  Este ejercicio normalmente tiene dos factores de complejidad. Esta complejidad suele ser el diseño de la solución (cómo afronta un problema desconocido). Y en algunos casos, si el entrevistador lo considera necesario algún tipo de restricción al uso regular del lenguaje: uso de papel/lápiz o algún tipo de documento que no tenga intellisense para el código; restricción de uso algunas funciones como `.map`, `.forEach` o similares. Sin ir a extremos. Un punto interesante de observar es que tan abierta esta la persona a recibir pistas, guías o recomendaciones, que tan cómoda esta en actividades similares como pair programming.
 
 - **Cierre**
 
-  Este puede ser un buen momento para indicar posibles soluciones, dar feedback a lx candidatx y observar como responde a ese feedback.
+  Este puede ser un buen momento para indicar posibles soluciones, dar feedback a la candidata y observar cómo responde a ese feedback.
 
 
 ### Mitos 
@@ -49,10 +49,10 @@ El proceso podemos dividirlo en:
 
 - **No terminó el ejercicio, no pasa.**
 
-  Esto puede variar de ejercicio a ejercicio. Pero en términos generales aquí es importante observar cómo se enfrenta al problema y que solución le da.
+  Esto puede variar de ejercicio a ejercicio. Pero en términos generales aquí es importante observar cómo se enfrenta al problema y qué solución le da.
 
 - **No puedes googlear, si googleas no sabes.**
   
-  Hola, todos googleamos, no es un memory context. Sobretodo cosas de sintaxis, no es un problema googlear. Tampoco es que busque directamente el problema. Observar claramente que busca. 
+  Hola, todos googleamos, no es un _memory contest_. Sobretodo cosas de sintaxis, no es un problema googlear. Tampoco es que busque directamente el problema. Observar claramente qué busca. 
 
 

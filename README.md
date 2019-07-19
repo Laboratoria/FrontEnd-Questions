@@ -30,7 +30,21 @@ El proceso podemos dividirlo en:
 
   El ejercicio de calentamiento tiene como objetivo que lx candidata comprenda el proceso que seguirán para el ejercicio. Además de generarle confianza. 
 
-  Estos ejercicios no necesitan tener restricciones y la idea es que la respuesta sea relativamente directa. 
+  Estos ejercicios no necesitan tener restricciones y la idea es que la respuesta sea relativamente directa.
+
+  Algunos ejemplos: 
+  1. 
+  ```
+  // Escribe una función que dado el arreglo de planetas, imprima en consola
+  // `Hola, soy el planeta [nombre] y estoy en la posición [x]`
+  // Para cada planeta. 
+  ```
+  Si bien este ejercicio es directo, no implica complejidad extra ni nada por el estilo,
+  solo implica entendimiento del lenguaje y puedes preguntarle por más de una forma 
+  de hacerlo.
+
+  2. El ejercicio de `Stringitis` puede ser usado para estos casos, si es que no agregas restricciones. 
+
 
 - **Ejercicio**
 
@@ -45,7 +59,7 @@ El proceso podemos dividirlo en:
  
 - **No pasa porque No me repondió xxxx como lo dice exactamente en MDN**
 
-  No buscamos observar que tan buena memoria tiene la estudiante, sino su entendimiento de dichos conceptos. Aquí lo importante es ver si no te esta "floreando", sino saber si en realidad entiende dicho concepto, uso. 
+  No buscamos observar que tan buena memoria tiene la estudiante, sino su entendimiento de dichos conceptos. Aquí lo importante es ver si no te esta "floreando", sino saber si en realidad entiende dicho concepto y/o su uso. 
 
 - **No terminó el ejercicio, no pasa.**
 

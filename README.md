@@ -17,7 +17,7 @@ Para esto hay tres puntos importantes que contrastar y observar:
 El proceso podemos dividirlo en: 
 - **Presentación**
 
-  En este punto, te persentas como entrevistadorx y este preguntar por la experiencia en desarrollo de la candidata. Tratar que sea breve, clara y aporte al puesto al que postula. 
+  En este punto, te presentas como entrevistadorx, a continuación preguntas por la experiencia en desarrollo de la candidata. Trata que su presentación sea breve, clara y aporte al puesto al que postula. 
 
 - **Trivia / Preguntas Teórico Conceptuales**
 

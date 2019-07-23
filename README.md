@@ -19,6 +19,12 @@ El proceso podemos dividirlo en:
 
   En este punto, te presentas como entrevistadorx, a continuación preguntas por la experiencia en desarrollo de la candidata. Trata que su presentación sea breve, clara y aporte al puesto al que postula. 
 
+- **Contexto** 
+
+  Es importante dejarle claro a la candidata el prceso de la entrevista: _"Te
+  comento el proceso, inicialmente te haré una serie de preguntas conceptuales,
+  y luego continuamos con uno o dos ejercicios de código".
+
 - **Trivia / Preguntas Teórico Conceptuales**
 
   Algunas frases anteriores pueden hacer sentir más cómodas a las personas de manera que puedan expresar lo que entienden  libremente.

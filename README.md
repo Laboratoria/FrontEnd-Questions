@@ -56,6 +56,17 @@ El proceso podemos dividirlo en:
 
   Este ejercicio normalmente tiene dos factores de complejidad. Esta complejidad suele ser el diseño de la solución (cómo afronta un problema desconocido). Y en algunos casos, si el entrevistador lo considera necesario algún tipo de restricción al uso regular del lenguaje: uso de papel/lápiz o algún tipo de documento que no tenga intellisense para el código; restricción de uso algunas funciones como `.map`, `.forEach` o similares. Sin ir a extremos. Un punto interesante de observar es que tan abierta esta la persona a recibir pistas, guías o recomendaciones, que tan cómoda esta en actividades similares como pair programming.
 
+  - Si la candidata llegó a una solución, puedes proponer que pruebe una
+  solución en la que alguno de los métodos que uso no existiera. Recuerda, no te
+  vayas al extremo. No es que tenga que reescribir JavaScript. 
+  
+  Un punto interesante de observar es que tan abierta esta la persona a recibir
+  pistas, guías o recomendaciones, que tan cómoda esta en actividades similares
+  como pair programming.
+
+  Quizás sea importante que le recuerdes el tiempo que le queda para que lo
+  tenga presente.
+
 - **Cierre**
 
   Este puede ser un buen momento para indicar posibles soluciones, dar feedback a la candidata y observar cómo responde a ese feedback.

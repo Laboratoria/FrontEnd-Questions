@@ -82,16 +82,43 @@ El proceso podemos dividirlo en:
 
 ### Mitos 
  
-- **No pasa porque No me repondió xxxx como lo dice exactamente en MDN**
+- **¿Pasa o no pasa?**
 
-  No buscamos observar que tan buena memoria tiene la estudiante, sino su entendimiento de dichos conceptos. Aquí lo importante es ver si no te esta "floreando", sino saber si en realidad entiende dicho concepto y/o su uso. 
+  Si es una contratación para Laboratoria pensaría si:
+  - ¿Si estuviera en mis manos, la contrataría en este momento?
+  - ¿Me gustaría trabajar con esta persona?
+  - ¿Aportará en el equipo al entra? 
+  No siempre tienen que ser Si directamente en los tres, porque depende mucho de
+  la empresa y el equipo, al final de cuentas, y esto termina de responderse en
+  un concenso con todos los involucrados.
+  Para el caso de nuestras candidatas en **_Job Application_**, la idea es si
+  *Iteraría* o *Seguiría Iterando*. 
 
-- **No terminó el ejercicio, no pasa.**
+- **Sigue iterando porque No me repondió xxxx como lo dice exactamente en MDN**
 
-  Esto puede variar de ejercicio a ejercicio. Pero en términos generales aquí es importante observar cómo se enfrenta al problema y qué solución le da.
+  No buscamos observar que tan buena memoria tiene la estudiante, sino su
+  entendimiento de dichos conceptos. Aquí lo importante es ver si no te esta
+  "floreando", sino saber si en realidad entiende dicho concepto y/o su uso. 
+
+- **No terminó el ejercicio, que itere.**
+
+  Esto puede variar de ejercicio a ejercicio. Pero en términos generales aquí es
+  importante observar cómo se enfrenta al problema y qué solución le da. Algunas
+  sugerencias para manejar los tiempos: 
+
+  - Si ya está por llegar a la solución _"Karina, llevas muy buen avance y veo
+  que te falta muy poco para poder terminarlo. El tiempo ya no nos da
+  oportunidad de continuar pero me gustó como afrontaste el problema... (inserte
+  aquí el feedback)"_.
+
+  - Si aún le falta bastante _"Karina, creo que aquí podemos parar la entrevista
+  porque el tiempo ya no nos da oportunidad de continuar. Pero no te preocupes,
+  estas entrevistas son justo para conocer... (inserte aquí el feedback)"_.
 
 - **No puedes googlear, si googleas no sabes.**
   
-  Hola, todos googleamos, no es un _memory contest_. Sobretodo cosas de sintaxis, no es un problema googlear. Tampoco es que busque directamente el problema. Observar claramente qué busca. 
-
+  Hola, todos googleamos, no es un _memory contest_. 
+  Sobretodo cosas de sintaxis,no es un problema googlear. 
+  Tampoco es que busque directamente el problema. 
+  Observar claramente qué busca. Nos sirve para evaluar cómo investiga. 
 

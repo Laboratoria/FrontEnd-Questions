@@ -21,17 +21,21 @@ experiencia y propuesta de solución.
 
 El proceso podemos dividirlo en: 
 
+- **Contexto**
+
+  Es importante dejarle claro a la candidata el prceso de la entrevista: _"Te
+  comento el proceso, inicialmente te haré una serie de preguntas conceptuales,
+  y luego continuamos con uno o dos ejercicios de código"_.
+  Además es importante recordarle que esta es una entrevista de práctica,
+    es sobre todo para identificar que haría en una entrevisa real,
+    cómo se comportaría si esta nerviosa, o que recursos puede usar para controlar
+  o manejar esas situaciones.
+ 
 - **Presentación**
 
   En este punto, te presentas como entrevistadorx, a continuación preguntas por
   la experiencia en desarrollo de la candidata. Trata que su presentación sea
   breve, clara y aporte al puesto al que postula. 
-
-- **Contexto** 
-
-  Es importante dejarle claro a la candidata el prceso de la entrevista: _"Te
-  comento el proceso, inicialmente te haré una serie de preguntas conceptuales,
-  y luego continuamos con uno o dos ejercicios de código".
 
 - **Trivia / Preguntas Teórico Conceptuales**
 

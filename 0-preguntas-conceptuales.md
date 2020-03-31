@@ -19,7 +19,7 @@
 
 9. ¿Cuándo recomiendas (contexto flexbox - grid layout) usar `justify-content` o `align-items`?
 
-10. Cómo le explicarías a tu mamá/papá _qué es una función_, por qué querríamos usar una función, y qué ejemplos usarías para ilustrar los conceptos?
+10. ¿Cómo le explicarías a tu mamá/papá _qué es una función_?, ¿por qué querríamos usar una función?, y ¿qué ejemplos usarías para ilustrar los conceptos?
 
 11. En tus propias palabras, cómo explicarías:
   * ¿Por qué en JavaScript tenemos 3 palabras reservadas para declarar variables (`var`, `let` y `const`)?

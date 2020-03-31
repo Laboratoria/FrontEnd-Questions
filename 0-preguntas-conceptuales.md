@@ -23,7 +23,7 @@
 
 11. En tus propias palabras, cómo explicarías:
   * ¿Por qué en JavaScript tenemos 3 palabras reservadas para declarar variables (`var`, `let` y `const`)?
-    * ¿Cuáles son las diferencias entre ellas con algunos ejemplos?
+  * ¿Cuáles son las diferencias entre ellas con algunos ejemplos?
 
 12. Explica en tus palabras el concepto de _iteración_ en programación.
 

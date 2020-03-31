@@ -27,4 +27,4 @@
 
 12. Explica en tus palabras el concepto de _iteración_ en programación.
 
-13. A qué nos referimos cuando hablamos de valores _truthy_ y _falsy_ en JavaScript?
+13. ¿A qué nos referimos cuando hablamos de valores _truthy_ y _falsy_ en JavaScript?

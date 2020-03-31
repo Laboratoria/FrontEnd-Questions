@@ -1,4 +1,4 @@
-# PREGUNTAS TEORICAS
+# Preguntas conceptuales
 
 
 1. Explica con varios ejemplos, lo que se entiende por `execution context`(contexto de ejecución), `lexical scope`(scope lexico) y `closure`.
@@ -18,3 +18,13 @@
 8. Explica con un ejemplo qué son los `media queries`
 
 9. ¿Cuándo recomiendas (contexto flexbox - grid layout) usar `justify-content` o `align-items`?
+
+10. Cómo le explicarías a tu mamá/papá _qué es una función_, por qué querríamos usar una función, y qué ejemplos usarías para ilustrar los conceptos?
+
+11. En tus propias palabras, cómo explicarías:
+    * ¿Por qué en JavaScript tenemos 3 palabras reservadas para declarar variables (`var`, `let` y `const`)?
+    * ¿Cuáles son las diferencias entre ellas con algunos ejemplos?
+
+12. Explica en tus palabras el concepto de _iteración_ en programación.
+
+13. A qué nos referimos cuando hablamos de valores _truthy_ y _falsy_ en JavaScript?

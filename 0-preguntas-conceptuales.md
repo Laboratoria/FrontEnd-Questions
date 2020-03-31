@@ -22,7 +22,7 @@
 10. Cómo le explicarías a tu mamá/papá _qué es una función_, por qué querríamos usar una función, y qué ejemplos usarías para ilustrar los conceptos?
 
 11. En tus propias palabras, cómo explicarías:
-    * ¿Por qué en JavaScript tenemos 3 palabras reservadas para declarar variables (`var`, `let` y `const`)?
+  * ¿Por qué en JavaScript tenemos 3 palabras reservadas para declarar variables (`var`, `let` y `const`)?
     * ¿Cuáles son las diferencias entre ellas con algunos ejemplos?
 
 12. Explica en tus palabras el concepto de _iteración_ en programación.

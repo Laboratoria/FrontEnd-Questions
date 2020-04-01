@@ -1,7 +1,7 @@
 # Chunk
 
 Implementa una función que dado un arreglo y un número `n`, divida el arreglo
-recibido en _subarreglos_ da longitud máxima `n`.
+recibido en _subarreglos_ de longitud máxima `n`.
 
 El valor de retorno debe ser un arreglo donde cada elemento sea un subarreglo.
 Tendremos así un arreglo de arreglos.

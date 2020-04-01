@@ -1,7 +1,7 @@
 # Capitalize
 
 Implementa una función que acepte un `String`, ponga la primera letra de cada
-palabra en mayúscula, y que retorne un nuevo `String` con el resultado.
+palabra en mayúscula y que retorne un nuevo `String` con el resultado.
 
 ## Ejemplos
 

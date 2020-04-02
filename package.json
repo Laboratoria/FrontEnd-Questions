@@ -1,0 +1,19 @@
+{
+  "name": "FrontEnd-Questions",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laboratoria/FrontEnd-Questions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Laboratoria/FrontEnd-Questions/issues"
+  },
+  "homepage": "https://github.com/Laboratoria/FrontEnd-Questions#readme",
+  "dependencies": {
+    "jest": "^25.2.4"
+  }
+}

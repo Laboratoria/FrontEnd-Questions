@@ -11,20 +11,22 @@
 
 5. Explica con un ejemplo  cómo manejas llamadas asíncronas con `callbacks`, `promises`,
 
-6. ¿Para qué se usan los `data-attributes`?
+6. Explica con un ejemplo cómo `Array.prototype.map()` es distinto de `Array.prototype.forEach()`
 
-7. ¿Por qué es importante no abusar de los `divs`?
+7. ¿Para qué se usan los `data-attributes`?
 
-8. Explica con un ejemplo qué son los `media queries`
+8. ¿Por qué es importante no abusar de los `divs`?
 
-9. ¿Cuándo recomiendas (contexto flexbox - grid layout) usar `justify-content` o `align-items`?
+9. Explica con un ejemplo qué son los `media queries`
 
-10. ¿Cómo le explicarías a tu mamá/papá _qué es una función_?, ¿por qué querríamos usar una función?, y ¿qué ejemplos usarías para ilustrar los conceptos?
+10. ¿Cuándo recomiendas (contexto flexbox - grid layout) usar `justify-content` o `align-items`?
 
-11. En tus propias palabras, cómo explicarías:
+11. ¿Cómo le explicarías a tu mamá/papá _qué es una función_?, ¿por qué querríamos usar una función?, y ¿qué ejemplos usarías para ilustrar los conceptos?
+
+12. En tus propias palabras, cómo explicarías:
   * ¿Por qué en JavaScript tenemos 3 palabras reservadas para declarar variables (`var`, `let` y `const`)?
   * ¿Cuáles son las diferencias entre ellas con algunos ejemplos?
 
-12. Explica en tus palabras el concepto de _iteración_ en programación.
+13. Explica en tus palabras el concepto de _iteración_ en programación.
 
-13. ¿A qué nos referimos cuando hablamos de valores _truthy_ y _falsy_ en JavaScript?
+14. ¿A qué nos referimos cuando hablamos de valores _truthy_ y _falsy_ en JavaScript?

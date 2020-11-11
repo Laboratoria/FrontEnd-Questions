@@ -28,3 +28,11 @@
 12. Explica en tus palabras el concepto de _iteración_ en programación.
 
 13. ¿A qué nos referimos cuando hablamos de valores _truthy_ y _falsy_ en JavaScript?
+
+14. Preguntas sobre métodos de arreglo `Array.prototype`. Aquí las posibilidades son múltiples, algunos ejemplos:
+
+   * Explica con un ejemplo cómo `.map` es distinto de `.forEach`?
+   * Explica con un ejemplo cómo `.map` es distinto de `.filter`?
+   * Explica con un ejemplo cómo funciona el método `.reduce`?
+   
+   

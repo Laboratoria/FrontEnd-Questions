@@ -7,7 +7,7 @@
 
   describe(pathToSolution, () => {
     beforeEach(() => {
-      jest.spyOn(console, 'log');
+      jest.spyOn(console, 'log').mockImplementation(() => {});
     });
 
     afterEach(() => {

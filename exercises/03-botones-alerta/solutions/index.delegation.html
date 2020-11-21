@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf8">
+    <title>Botones alerta</title>
+  </head>
+  <body>
+    <button>Primero</button>
+    <button>Segundo</button>
+    <button>Tercero</button>
+    <button>Cuarto</button>
+    <button>Quinto</button>
+    <script>
+    const countries = ['Brasil', 'Chile', 'Colombia', 'México', 'Perú'];
+
+    document.body.addEventListener('click', (e) => {
+      if (e.target.tagName !== 'BUTTON') {
+        return;
+      }
+
+      const idx = Array.from(e.target.parentElement.children)
+        .filter(child => child instanceof HTMLButtonElement)
+        .findIndex(child => child === e.target);
+
+      alert(countries[idx]);
+    });
+    </script>
+  </body>
+</html>

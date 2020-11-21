@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dos columnas</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+      aside, main {
+        width: 100%;
+      }
+      aside {
+        background-color: pink;
+      }
+      main {
+        background-color: yellow;
+      }
+      .container {
+        padding: 20px;
+      }
+      @media (min-width: 640px) {
+        body {
+          flex-direction: row;
+        }
+        aside {
+          width: 30%;
+          min-width: 180px;
+          max-width: 200px;
+        }
+        main {
+          width: 70%;
+          min-width: 440px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <aside>
+      <div class="container">
+        Aside
+      </div>
+    </aside>
+    <main>
+      <div class="container">
+        Main
+      </div>
+    </main>
+  </body>
+</html>

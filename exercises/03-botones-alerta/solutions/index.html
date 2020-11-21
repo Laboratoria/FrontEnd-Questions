@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Botones alerta</title>
+  </head>
+  <body>
+    <button>Primero</button>
+    <button>Segundo</button>
+    <button>Tercero</button>
+    <button>Cuarto</button>
+    <button>Quinto</button>
+    <script>
+    const countries = ['Brasil', 'Chile', 'Colombia', 'México', 'Perú'];
+    const buttons = document.querySelectorAll('button');
+    const createClickHandler = idx => () => alert(countries[idx]);
+
+    buttons.forEach((btn, idx) => {
+      btn.addEventListener('click', createClickHandler(idx));
+    });
+    </script>
+  </body>
+</html>

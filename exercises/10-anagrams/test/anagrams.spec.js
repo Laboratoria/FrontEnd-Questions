@@ -1,7 +1,7 @@
 // Fuente (punto de partida) de las pruebas:
 // https://github.com/StephenGrider/AlgoCasts/tree/master/exercises/anagrams
 
-const solutions = [
+[
   'anagrams',
   'anagrams.map-filter',
   'anagrams.reduce'

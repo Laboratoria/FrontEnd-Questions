@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf8">
+    <title>Botones alerta</title>
+  </head>
+  <body>
+    <button data-id="0">Primero</button>
+    <button data-id="1">Segundo</button>
+    <button data-id="2">Tercero</button>
+    <button data-id="3">Cuarto</button>
+    <button data-id="4">Quinto</button>
+    <script>
+    const countries = ['Brasil', 'Chile', 'Colombia', 'México', 'Perú'];
+
+    document.body.addEventListener('click', (e) => {
+      if (e.target.tagName !== 'BUTTON') {
+        return;
+      }
+      alert(countries[parseInt(e.target.dataset.id)]);
+    });
+    </script>
+  </body>
+</html>

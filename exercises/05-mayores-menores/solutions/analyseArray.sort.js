@@ -3,9 +3,8 @@ const analyseArray = (arr) => {
   return [
     sorted[sorted.length - 1],
     sorted[0],
-    sorted[sorted.length - 2],
+    sorted[sorted.indexOf(sorted[sorted.length - 1]) - 1],
   ];
-  // return [sorted.pop(), sorted[0], sorted.pop()];
 };
 
 module.exports = analyseArray;

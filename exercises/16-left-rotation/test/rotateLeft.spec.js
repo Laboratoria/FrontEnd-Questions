@@ -1,6 +1,7 @@
 [
   'rotateLeft',
   'rotateLeft.slice',
+  'rotateLeft.recursive',
 ].forEach((pathToSolution) => {
   const fn = require(`../solutions/${pathToSolution}`);
 
@@ -19,5 +20,19 @@
         expect(fn(...args)).toEqual(expected);
       });
     });
+
+    //
+    // Extra tests to check against massive inputs (make recursive
+    // implementations blow up and show performance differences)
+    //
+    // const sizes = Array(6).fill().map((_, idx) => Math.pow(10, idx));
+    // sizes.forEach((size) => {
+    //   it(`performance... ${size}`, () => {
+    //     const arr = Array(size).fill().map((_, idx) => idx);
+    //     const start = Date.now();
+    //     const rotated = fn(size, arr);
+    //     console.log(pathToSolution, size, Date.now() - start);
+    //   });
+    // });
   });
 });

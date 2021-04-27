@@ -1,12 +1,74 @@
-# Entrevista técnica Front End Development
+# Guía para Entrevistadores: Entrevista técnica Front End Development
 
-Las entrevistas técnicas en la industria de desarrollo de software en general
-tienen por objetivo identificar el mejor talento tech. Esto implica diferentes
-estrategias de acuerdo a la madurez y contexto de la empresa.
+## Sobre la dinámica
 
-## Guía para Entrevistadores
+La idea es simular un escenario de entrevista con nuestras estudiantes. Sabemos
+que las entrevistas técnicas suelen ser las más estresantes, así que la idea es
+simular un escenario _"crítico"_ que puedan encontrar en la vida real.
 
-El objetivo principal de una entrevista técnica es conocer más de cerca el
+Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
+a lo largo de la dinámica. Al final de la entrevista es necesario que vuelvas
+con feedback para las estudiantes (por correo electrónico), sobre su desempeño
+(en términos técnicos y de comunicación) y llenar un
+[pequeño formato]() con las notas de tu entrevisata.
+
+Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
+adaptarlo y aplicarlo como creas conveniente.
+
+Imaginamos que cada entrevista debería durar entre **30~60min**.
+
+## Contexto: Bootcamp
+
+Los proyectos que desarrollan siguen un plan abierto y están en Github. El
+enlace al repositorio con las definiciones de los proyectos está
+[aquí](https://github.com/Laboratoria/bootcamp/).
+
+Para que te sientas más cómodx, podemos resumir que su aprendizaje ha pasado,
+por los siguientes temas:
+- HTML y semántica
+- CSS y componentes
+- JavaScript y asíncronía
+- Node.js
+- Pruebas unitarias
+- React / Angula / Vue
+
+La mayoría de los proyectos se ejecutan en equipos bajo el marco de trabajo
+Scrum, con algunas ceremonias necesarias (como dailies, retrospectivas, etc).
+
+Además de la currícula, hemos preparado un pequeño resumen de los
+[proyectos](./proyectos.md) en caso quieras o necesites más contexto.
+
+## Antes de comenzar
+
+Conviene recordar que todas las estudiantes tienen un bagaje muy diferente antes
+de entrar a Laboratoria. La mayoría de ellas tienen experiencias en ámbitos
+totalmente diferentes y siempre vale la pena iniciar una conversación distendida
+para "romper el hielo" y que se sientan más cómodas.
+
+Puedes preguntarles sobre su trayectoria, los proyectos que ya han desarrollado
+y los puntos positivos/negativos de lo que han aprendido hasta ahora. También es
+interesante terminar la dinámica preguntando si la "postulante" tiene alguna
+duda sobre el mercado (ya que es algo muy nuevo para ella) y hacerle sentir
+bienvenida durante la dinámica.
+
+El espacio de simulación de la entrevista es totalmente abierto. Queremos que
+la experiencia sea disfrutable, tanto para tí como para ellas.
+
+A continuación, hemos elaborado una pequeña guía para las entrevistas, así como
+algunas preguntas teóricas y prácticas para que te sirvan de base. Recuerda que
+puedes adaptarte y centrarte en las preguntas que quieras, pero intenta siempre
+mantenerte dentro de la currícula del _bootcamp_ para que se sientan cómodas
+contestando.
+
+Muchas gracias por todo su apoyo y ayuda, significa mucho para nosotras y aún
+más para todas los estudiantes. ¡Es un paso extremadamente esencial en este
+viaje y una experiencia que cambia la vida! 💛
+
+## Objetivo
+
+Esta dinámica tiene 2 objetivos principales:
+* El primero como comentábamos al principio es que las estudiantes tengan la
+  posibilidad de tener una experiencia de postus conocer más de cerca el
 potencial técnico de la candidata.
 
 Para esto hay tres puntos importantes que contrastar y observar:
@@ -88,15 +150,6 @@ El proceso podemos dividirlo en:
 
   - Si la candidata llegó a una solución, puedes preguntar por casos en los que
     esta solución fallaría o encontraría problemas.
-
-  - Si la candidata llegó a una solución, puedes sugerir que pruebe una solución
-    alternativa, por ejemplo: usando conceptos de programación funcional como
-    [method chaining](https://medium.com/backticks-tildes/understanding-method-chaining-in-javascript-647a9004bd4f)
-    o [partial application](https://medium.com/@JosephJnk/partial-function-application-in-javascript-and-flow-7f3ca87074fe).
-
-  - Si la candidata llegó a una solución, puedes proponer que pruebe una
-    solución en la que alguno de los métodos que usó no existiera. Recuerda, no
-    te vayas al extremo. No es que tenga que reescribir JavaScript.
 
   Un punto interesante de observar es que tan abierta esta la persona a recibir
   pistas, guías o recomendaciones, que tan cómoda esta en actividades similares

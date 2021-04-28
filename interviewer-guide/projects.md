@@ -32,7 +32,7 @@ crear un sitio que muestre datos y estadísticas sobre esos personajes.
 
 ## [Red Social](https://github.com/Laboratoria/bootcamp/blob/master/projects/03-social-network/README.md)
 
-¡Es el primer contacto con el código asíncrono en JavaScript! En este proyecto
+¡Es el primer contacto con un servidor desde el navegador! En este proyecto
 crearon una red social utilizando Firebase, con una pantalla de inicio de sesión
  y un panel de red social para crear, editar y eliminar publicaciones públicas
  y/o privadas.

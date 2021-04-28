@@ -9,7 +9,7 @@ mantenerte dentro de la currícula del _bootcamp_ para que se sientan cómodas
 contestando.
 
 Muchas gracias por todo su apoyo y ayuda, significa mucho para nosotras y aún
-más para todas los estudiantes. ¡Es un paso extremadamente esencial en este
+más para todas las estudiantes. ¡Es un paso extremadamente esencial en este
 viaje y una experiencia que cambia la vida! 💛
 ## Sobre la dinámica
 
@@ -30,11 +30,11 @@ Imaginamos que cada entrevista debería durar entre **30~60min**.
 
 ## Contexto: Bootcamp
 
-Los proyectos que desarrollan siguen un plan abierto y están en Github. El
+Los proyectos que desarrollan siguen un plan abierto y están en GitHub. El
 enlace al repositorio con las definiciones de los proyectos está
 [aquí](https://github.com/Laboratoria/bootcamp/).
 
-Para que te sientas más cómodx, podemos resumir que su aprendizaje ha pasado,
+Para que te sientas más cómodx, podemos resumir que su aprendizaje ha pasado
 por los siguientes temas:
 - HTML y semántica
 - CSS y componentes
@@ -52,7 +52,7 @@ Además de la currícula, hemos preparado un pequeño resumen de los
 ## Objetivo
 
 Esta dinámica tiene 2 objetivos principales:
-* El primero como comentábamos al principio, es que las estudiantes tengan la
+* El primero, como comentábamos al principio, es que las estudiantes tengan la
   posibilidad de tener una experiencia de postulación lo más parecida a una
   real, dentro del marco del Bootcamp.
 * El segundo es conocer tu perspectiva sobre el potencial de la candidata, en
@@ -99,7 +99,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
 
 - **Presentación**
 
-  En este punto, yaen modo entrevistadorx, te presentas y la invitas a ella a
+  En este punto, ya en modo entrevistadorx, te presentas y la invitas a ella a
   que se presente. El foco aquí es que su presentación sea breve, clara y aporte
   al puesto al que postula, por lo que siéntete en libertad de hacerle las
   preguntas que consideres relevantes.
@@ -111,7 +111,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
   usando términos técnicos.
 
   Este es un buen punto para identificar el nivel de confianza con la que llega
-  lx candidata y te puede ayudar a ti a decidir la dificultad y tipo de
+  la candidata y te puede ayudar a ti a decidir la dificultad y tipo de
   ejercicio que quieres proponerle.
   
   Al momento de hacer las preguntas, recuerda vocalizar los términos con
@@ -136,7 +136,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
   
   Aquí puedes encontrar un
   [resumen de algunos ejercicios](../exercises/README.md) que puedes usar. Es
-  importante que, dependiendo de tus primeras impresiones, intentes de elegir
+  importante que, dependiendo de tus primeras impresiones, intentes elegir
   ejercicios relevantes para el perfil, por lo cual te recomendamos
   familiarizarte con ellos antes de la entrevista.
   
@@ -153,8 +153,8 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
     casos de tests para que ajuste de manera temprana su solución.
   - Recuerda que estamos "simulando" una entrevista real, por más que te mueras
     de ganas, intenta no brindarle _demasiada_ ayuda.
-  - Te en cuenta que estas entrevistas no son un _memory contest_, y que es
-    totalemnete válido si la estudiante acude a google en busca de ayuda,
+  - Ten en cuenta que estas entrevistas no son un _memory contest_, y que es
+    totalemnete válido si la estudiante acude a Google en busca de ayuda,
     sobretodo si es documentación o foros. Observar claramente qué busca, nos
     sirve para evaluar cómo investiga.
 

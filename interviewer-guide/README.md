@@ -1,5 +1,16 @@
-# Guía para Entrevistadores: Entrevista técnica Front End Development
+# Guía para Entrevistadores
 
+## Antes de comenzar
+
+A continuación, hemos elaborado una pequeña guía para las entrevistas, así como
+algunas preguntas teóricas y prácticas para que te sirvan de base. Recuerda que
+puedes adaptarte y centrarte en las preguntas que quieras, pero intenta siempre
+mantenerte dentro de la currícula del _bootcamp_ para que se sientan cómodas
+contestando.
+
+Muchas gracias por todo su apoyo y ayuda, significa mucho para nosotras y aún
+más para todas los estudiantes. ¡Es un paso extremadamente esencial en este
+viaje y una experiencia que cambia la vida! 💛
 ## Sobre la dinámica
 
 La idea es simular un escenario de entrevista con nuestras estudiantes. Sabemos
@@ -10,7 +21,7 @@ Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
 a lo largo de la dinámica. Al final de la entrevista es necesario que vuelvas
 con feedback para las estudiantes (por correo electrónico), sobre su desempeño
 (en términos técnicos y de comunicación) y llenar un
-[pequeño formato]() con las notas de tu entrevisata.
+[score card](./score-card.xlsx) con las notas de tu entrevista.
 
 Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
 adaptarlo y aplicarlo como creas conveniente.
@@ -36,9 +47,22 @@ La mayoría de los proyectos se ejecutan en equipos bajo el marco de trabajo
 Scrum, con algunas ceremonias necesarias (como dailies, retrospectivas, etc).
 
 Además de la currícula, hemos preparado un pequeño resumen de los
-[proyectos](./proyectos.md) en caso quieras o necesites más contexto.
+[proyectos](./projects.md) en caso quieras o necesites más contexto.
 
-## Antes de comenzar
+## Objetivo
+
+Esta dinámica tiene 2 objetivos principales:
+* El primero como comentábamos al principio, es que las estudiantes tengan la
+  posibilidad de tener una experiencia de postulación lo más parecida a una
+  real, dentro del marco del Bootcamp.
+* El segundo es conocer tu perspectiva sobre el potencial de la candidata, en
+  particular alrededor de estos tres puntos:
+  - Conocimiento/entendimiento del lenguaje.
+  - Método de análisis y solución de problemas. ¿Cómo se enfrentó al ejercicio?
+  - Comunicación. La claridad para explicar su entendimiento de terminos técnicos,
+    experiencia y propuesta de solución.
+
+## La dinámica
 
 Conviene recordar que todas las estudiantes tienen un bagaje muy diferente antes
 de entrar a Laboratoria. La mayoría de ellas tienen experiencias en ámbitos
@@ -54,155 +78,148 @@ bienvenida durante la dinámica.
 El espacio de simulación de la entrevista es totalmente abierto. Queremos que
 la experiencia sea disfrutable, tanto para tí como para ellas.
 
-A continuación, hemos elaborado una pequeña guía para las entrevistas, así como
-algunas preguntas teóricas y prácticas para que te sirvan de base. Recuerda que
-puedes adaptarte y centrarte en las preguntas que quieras, pero intenta siempre
-mantenerte dentro de la currícula del _bootcamp_ para que se sientan cómodas
-contestando.
-
-Muchas gracias por todo su apoyo y ayuda, significa mucho para nosotras y aún
-más para todas los estudiantes. ¡Es un paso extremadamente esencial en este
-viaje y una experiencia que cambia la vida! 💛
-
-## Objetivo
-
-Esta dinámica tiene 2 objetivos principales:
-* El primero como comentábamos al principio es que las estudiantes tengan la
-  posibilidad de tener una experiencia de postus conocer más de cerca el
-potencial técnico de la candidata.
-
-Para esto hay tres puntos importantes que contrastar y observar:
-
-- Conocimiento/entendimiento del lenguaje.
-- Método de análisis y solución de problemas. ¿Cómo se enfrentó al ejercicio?
-- Comunicación. La claridad para explicar su entendimiento de terminos técnicos,
-  experiencia y propuesta de solución.
-
-### El proceso
-
-El proceso podemos dividirlo en:
+De todas maneras te dejamos una guía con las etapas que recomendamos:
 
 - **Contexto**
 
-  Es importante dejarle claro a la candidata el proceso de la entrevista: _"Te
-  comento el proceso, inicialmente te haré una serie de preguntas conceptuales,
-  y luego continuamos con uno o dos ejercicios de código"_.
-  Además es importante recordarle que esta es una entrevista de práctica,
-  es sobre todo para identificar que haría en una entrevisa real,
-  cómo se comportaría si esta nerviosa, o que recursos puede usar para controlar
-  o manejar esas situaciones.
+  Antes de ponerte en modo entrevistadorx es importante recordarle a la
+  estudiante que esta es una entrevista de práctica, es sobre todo para
+  identificar qué haría en una entrevisa real, cómo se comportaría si se pone
+  nerviosa, o que recursos puede usar para controlar o manejar esas situaciones.
+
+- **Intro**
+
+  Aquí ya comienza la entrevista y lo primero es dejarle claro a la
+  candidata cuál será la estrucutura de este espacio, por ejemplo:
+  
+  > _"Te comento el proceso: al comienzo te pediré que te presentes, me cuentes
+  un poco sobre tí y por qué estás postulando a este puesto, luego te haré una
+  serie de preguntas conceptuales, y por último resolveremos 1 o 2 ejercicios de
+  código"_.
 
 - **Presentación**
 
-  En este punto, te presentas como entrevistadorx, a continuación preguntas por
-  la experiencia en desarrollo de la candidata. Trata que su presentación sea
-  breve, clara y aporte al puesto al que postula.
+  En este punto, yaen modo entrevistadorx, te presentas y la invitas a ella a
+  que se presente. El foco aquí es que su presentación sea breve, clara y aporte
+  al puesto al que postula, por lo que siéntete en libertad de hacerle las
+  preguntas que consideres relevantes.
 
-- **Trivia / Preguntas Teórico Conceptuales**
+- **Preguntas Conceptuales**
 
-  Algunas frases anteriores pueden hacer sentir más cómodas a las personas de
-  manera que puedan expresar lo que entienden  libremente.
-  Al momento de hacer las preguntas, recordar vocalizar los términos con
-  claridad, y si es necesario escribirlas para que quede claro el término que se
-  le está preguntando.
+  El objetivo de este espacio es entender el nivel de entendimiento de ciertos
+  conceptos por parte de la estudiante, asi cómo su capacidad de expresión
+  usando términos técnicos.
 
   Este es un buen punto para identificar el nivel de confianza con la que llega
-  lx candidata. Esto te ayudará a decidir un ejercicio de calentamiento.
+  lx candidata y te puede ayudar a ti a decidir la dificultad y tipo de
+  ejercicio que quieres proponerle.
+  
+  Al momento de hacer las preguntas, recuerda vocalizar los términos con
+  claridad, y si es necesario compartir tu pantalla con la pregunta, para que
+  quede claro el término por el cual se le está preguntando.
 
-  Puedes usar las preguntas en
-  [Preguntas Conceptuales](0-preguntas-conceptuales.md).
+  Aquí puedes encontrar una lista de
+  [preguntas conceptuales](./questions.md) que puedes usar. Te
+  recomendamos estar familiarizadx con ellas antes de las entrevistas.
 
-- **Ejercicio de calentamiento**
+- **Ejercicios**
 
-  El ejercicio de calentamiento tiene como objetivo que lx candidata comprenda
-  el proceso que seguirán para el ejercicio. Además de generarle confianza.
+  El objetivo de esta etapa es ver cómo se enfrenta la estudiante a la
+  resolución en tiempo real de un ejercicio de código: si plantea su
+  razonamiento de forma clara, si hace preguntas en relación al enunciado para
+  terminar de entenderlo, si se lanza a codear de frente sin ninguna
+  estrategia, etc.
 
-  Estos ejercicios no necesitan tener restricciones y la idea es que la
-  respuesta sea relativamente directa.
-
-  Algunos ejemplos:
-
-  1. Imagina el siguiente ejercicio:
-
-     > Escribe una función que dado un arreglo de planetas, imprima en consola
-     > `Hola, soy el planeta [nombre] y estoy en la posición [x]`
-     > Para cada planeta.
-
-     Si bien este ejercicio es directo, no implica complejidad extra ni nada por
-     el estilo, solo implica entendimiento del lenguaje y puedes preguntarle por
-     más de una forma de hacerlo.
-
-  2. El ejercicio de [`Stringitis`](1-stringitis.md) puede ser usado para estos
-     casos, si es que no agregas restricciones.
-
-- **Ejercicio**
-
-  Este ejercicio normalmente tiene dos factores de complejidad. Esta complejidad
-  suele ser el diseño de la solución (_cómo afronta un problema desconocido_).
-  Y en algunos casos, si el entrevistador lo considera necesario algún tipo de
-  restricción al uso regular del lenguaje. Algunas sugerencias de restricciones:
-
-  - Uso de papel/lápiz o algún tipo de documento que no tenga intellisense para
-    completar el código.
-
-  - Restricción de uso algunas funciones como `.map`, `.forEach` o similares.
-    Sin ir a extremos. Si lo usa, que explique el funcionamiento de la función.
-
-  - Si la candidata llegó a una solución, puedes preguntar por casos en los que
-    esta solución fallaría o encontraría problemas.
-
-  Un punto interesante de observar es que tan abierta esta la persona a recibir
-  pistas, guías o recomendaciones, que tan cómoda esta en actividades similares
-  como pair programming.
-
-  Quizás sea importante que le recuerdes el tiempo que le queda para que lo
-  tenga presente.
+  La recomendación es comenzar con algún ejercicio rápido y fácil para darte
+  una idea del nivel de la estudiante, y de ahí pasar a un segundo ejercicio
+  que represente un desafío mayor.
+  
+  Aquí puedes encontrar un
+  [resumen de algunos ejercicios](../exercises/README.md) que puedes usar. Es
+  importante que, dependiendo de tus primeras impresiones, intentes de elegir
+  ejercicios relevantes para el perfil, por lo cual te recomendamos
+  familiarizarte con ellos antes de la entrevista.
+  
+  Puntos importantes a tener en cuenta:
+  - Dependiendo del desempeño en el primer ejercicio, evalúa si realmente tiene
+    sentido hacer un segundo: pueden haber casos en que la estudiante se
+    bloquea, o no cuenta con las capacidades para resolver inclusive ejercicios
+    muy fáciles. En estos escenarios otro ejercicio puede solamente empeorar
+    la experiencia.
+  - Quizás sea importante que le recuerdes el tiempo que le queda para que lo
+    tenga presente.
+  - Si percibes que la estudiante no ha terminado de entender el enunciado, o lo
+    ha entendido mal, quizás la puedes ayudar con algunas preguntas o nuevos
+    casos de tests para que ajuste de manera temprana su solución.
+  - Recuerda que estamos "simulando" una entrevista real, por más que te mueras
+    de ganas, intenta no brindarle _demasiada_ ayuda.
+  - Te en cuenta que estas entrevistas no son un _memory contest_, y que es
+    totalemnete válido si la estudiante acude a google en busca de ayuda,
+    sobretodo si es documentación o foros. Observar claramente qué busca, nos
+    sirve para evaluar cómo investiga.
 
 - **Cierre**
 
-  Este puede ser un buen momento para indicar posibles soluciones, dar feedback
-  a la candidata y observar cómo responde a ese feedback.
+  Aquí llega la entrevista a su fin, recuerda agradecerle por su tiempo y
+  recordarle, que dentro de un plazo que tu definas (intenta que no sea mayor
+  a una semana), le harás llegar por escrito a su correo el resultado y
+  feedback de la entrevista. Recuerda copiar en este correo al equipo de
+  Laboratoria.
 
-### Mitos
+- **Salida** (opcional)
 
-- **¿Pasa o no pasa?**
+  Aquí ya fuera de tu rol de entrevistadorx, puedes aprovechar para darle
+  feedback general sobre su desempeño o los puntos que consideres más
+  relevantes, así como levantar sus percepciones y sensaciones de lo que acaba
+  de suceder. Ten en cuenta que esta etapa **no reemplaza** al feedback por
+  escrito.
 
-  Si es una contratación para Laboratoria pensaría lo siguiente:
+## Feedback
+
+Necesitaremos información al final de la dinámica. Teniendo esto en cuenta,
+hemos preparado dos recursos para ayudarte:
+- El primero es una _plantilla_, para que todas las estudiantes puedan tener
+  mas o menos la misma información.
+- El segundo es un [_score card_](./score-card.xlsx), para ayudarte a dejar
+  tus notas y realizar la evaluación integral de la entrevista.
+
+Siéntete libre de adaptar estos recursos según consideres necesario. Pero vale
+la pena mantener siempre **un tono positivo** en la retroalimentación y tratar
+de proporcionar **información concreta** y, si es posible, **enlaces, recursos
+y/o contenidos** si crees que vale la pena que el estudiante se enfoque en los
+puntos que podría mejorar.
+
+### ¿Pasa o no pasa?
+
+  Para ayudarte en esa decisión existe el [_score card_](./score-card.xlsx),
+  pero consideramos que lo más importante es enfocarnos en lo siguiente:
 
   - ¿Si estuviera en mis manos, la contrataría en este momento?
   - ¿Me gustaría trabajar con esta persona?
   - ¿Aportará en el equipo al que entra?
 
-  No siempre tienen que ser Si directamente en los tres, porque depende mucho
-  de la empresa y el equipo, al final de cuentas, y esto termina de
-  responderse en un consenso con todos los involucrados.
+  No siempre tienen que ser **Si** directamente en los tres, porque depende
+  mucho de la empresa y el equipo.
 
-  Para el caso de nuestras candidatas en **_Job Application_**, la idea es si
-  *Iteraría* o *Seguiría Iterando*.
+  Para el caso de nuestras candidatas en **_Job Application_**, la idea es
+  determinar si _**Está preparada**_ para un proceso real, o si le recomendamos
+  _**Prepararse un poco más y volver a intentarlo**_.
 
-  - **Sigue iterando porque No me repondió xxxx como lo dice exactamente en MDN**
+### Modelo de feedback para estudiante
 
-    No buscamos observar que tan buena memoria tiene la estudiante, sino su
-    entendimiento de dichos conceptos. Aquí lo importante es ver si no te esta
-    "floreando", sino saber si en realidad entiende dicho concepto y/o su uso.
-  - **No terminó el ejercicio, que itere.**
+[FIXME: TBD]
 
-    Esto puede variar de ejercicio a ejercicio. Pero en términos generales aquí
-    es importante observar cómo se enfrenta al problema y qué solución le da.
-    Algunas sugerencias para manejar los tiempos:
+## Fin
 
-    - Si ya está por llegar a la solución _"Karina, llevas muy buen avance y veo
-      que te falta muy poco para poder terminarlo. El tiempo ya no nos da
-      oportunidad de continuar pero me gustó como afrontaste el problema...
-      (inserte aquí el feedback)"_.
-    - Si aún le falta bastante _"Karina, creo que aquí podemos parar la
-      entrevista porque el tiempo ya no nos da oportunidad de continuar. Pero no
-      te preocupes, estas entrevistas son justo para conocer... (inserte aquí el
-      feedback)"_.
+Gracias por ayudarnos en nuestra misión de hacer que el campo de la tecnología
+sea más inclusivo, sabemos que actuar como entrevistadorx no es una tarea fácil
+y realmente apreciamos el tiempo que has compartido con nosotras.
 
-- **No puedes googlear, si googleas no sabes.**
+Esta etapa del Bootcamp es extremadamente importante para las estudiantes y
+el impacto que personas como tú tienen en el crecimiento profesional de las
+estudiantes es enorme.
 
-  Hola, todos googleamos, no es un _memory contest_. Sobretodo cosas de
-  sintaxis, no es un problema googlear. Tampoco es que busque directamente el
-  problema. Observar claramente qué busca. Nos sirve para evaluar cómo
-  investiga.
+Si tiene **alguna pregunta**, por favor, no dudes en ponerte en contacto con
+nosotras.
+
+**De parte del equipo, nuestro más sincero agradecimiento 💛**.

@@ -21,7 +21,7 @@
    cuando una variable no cambia su valor".
 
 * Si tienes tres `console.log` consecutivos, pero el segundo está dentro de un
-   `setTimeout`, terminará imprimiéndose al final de todos. Explica por qué.!
+   `setTimeout`, terminará imprimiéndose al final de todos. Explica por qué.
 ```js
 console.log('log 1');
 setTimeout(() => console.log('log 2'), 0);

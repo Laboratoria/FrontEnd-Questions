@@ -207,7 +207,35 @@ puntos que podría mejorar.
 
 ### Modelo de feedback para estudiante
 
-[FIXME: TBD]
+Siguiendo la estructura del scorecard, tómate un momento para dar tu feedback
+sobre cada bloque. Es muy importante que en cada sección refuerces tanto los aspectos positivos
+como aquellos que necesitan mejorarse.
+
+Además, sería valioso que puedas darle tu apreciación sobre sus respuestas de
+la forma más objetiva posible, comunicándole el impacto que tiene dicho concepto
+o skill en su perfil o la importancia del mismo para su desempeño como Frontend
+Developer. 
+
+En caso existan aspectos que necesite reforzar, intenta colocar referencias a
+recursos relevantes a los que pueda sacarle valor rápidamente.
+
+#### Profesionalismo
+- ¿Se mostró predispuesta y proactiva para la coordinación de la entrevista?
+- ¿Llegó puntual?
+
+#### Preguntas conceptuales
+- ¿Cómo calificas sus respuestas a las preguntas conceptuales?
+
+#### Ejercicios prácticos
+- ¿Completó el 1er ejercicio?
+- ¿Completó el 2ndo ejercicio?
+- ¿Compartió su razonamiento y estrategias de solución de forma asertiva?
+
+Y por último compartirle si es que detectaste en su actitud algo notable o algo
+por trabajar (seguridad, nervios, fluidez en sus ideas, etc.), recomendar
+algunas cosas, pero también mencionar que esto es algo normal. Incluso si
+quieres empatizar y mencionar lo que te ha ocurrido a ti y cómo lo trabajaste,
+sería genial.
 
 ## Fin
 

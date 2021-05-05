@@ -2,11 +2,7 @@
 
 Los proyectos que han desarrollado hasta ahora han sido los siguientes:
 
-<<<<<<< HEAD
-## [Cifrado César](https://github.com/Laboratoria/bootcamp/blob/master/projects/01-cipher/README.md)
-=======
 ## [Cifrado César](https://github.com/Laboratoria/bootcamp/tree/main/projects/01-cipher/)
->>>>>>> f3ed7b0898138552a239d5ea1629df7bbb7dcbcf
 
 Una aplicación con interfaz realizada en HTML, CSS y vanilla JS, donde la idea
 es tener un campo de texto para cifrar y otro para descifrar un mensaje en base

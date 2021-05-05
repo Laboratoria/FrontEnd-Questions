@@ -43,7 +43,7 @@ por los siguientes temas:
 - JavaScript y asíncronía
 - Node.js
 - Pruebas unitarias
-- React / Angula / Vue
+- React / Angular / Vue
 
 La mayoría de los proyectos se ejecutan en equipos bajo el marco de trabajo
 Scrum, con algunas ceremonias necesarias (como dailies, retrospectivas, etc).

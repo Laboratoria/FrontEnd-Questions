@@ -21,7 +21,9 @@ Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
 a lo largo de la dinámica. Al final de la entrevista es necesario que vuelvas
 con feedback para las estudiantes (por correo electrónico), sobre su desempeño
 (en términos técnicos y de comunicación) y llenar un
-[scorecard](./interview-scorecard.xlsx) con las notas de tu entrevista.
+_scorecard_ ([Formato Excel](./interview-scorecard.xlsx) y
+[Google Sheets](https://docs.google.com/spreadsheets/d/1ZQyRf9Mv2ibMeTkrnJ0mhNBGLGcjOhRUH4MDqVF8vDk))
+con las notas de tu entrevista.
 
 Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
 adaptarlo y aplicarlo como creas conveniente.
@@ -180,8 +182,9 @@ Necesitaremos información al final de la dinámica. Teniendo esto en cuenta,
 hemos preparado dos recursos para ayudarte:
 - El primero es una _plantilla_, para que todas las estudiantes puedan tener
   mas o menos la misma información.
-- El segundo es un [_scorecard_](./interview-scorecard.xlsx), para ayudarte a dejar
-  tus notas y realizar la evaluación integral de la entrevista.
+- El segundo es un _scorecard_ ([Formato Excel](./interview-scorecard.xlsx) y
+  [Google Sheets](https://docs.google.com/spreadsheets/d/1ZQyRf9Mv2ibMeTkrnJ0mhNBGLGcjOhRUH4MDqVF8vDk))
+  , para ayudarte a dejar tus notas y realizar la evaluación integral de la entrevista.
 
 Siéntete libre de adaptar estos recursos según consideres necesario. Pero vale
 la pena mantener siempre **un tono positivo** en la retroalimentación y tratar

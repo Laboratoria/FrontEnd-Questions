@@ -61,8 +61,8 @@ describe('/lorem controller', () => {
     controller(req,res)
   })
 
-  it('should respond with a single word', (done) => {
-    loremIpsum.mockResolvedValue('lorem')
+  it('should respond with a single word', () => {
+    loremIpsum.mockReturnValue('lorem')
     
     const req = {
       body: {
@@ -74,11 +74,7 @@ describe('/lorem controller', () => {
         expect(code).toBe(200)
         return {
           send: (response) => {
-            response.then((words) => {
-              expect(words).toBe('lorem')
-              done()
-            })
-            .catch(done)
+              expect(response).toBe('lorem')
           }
         }
       }

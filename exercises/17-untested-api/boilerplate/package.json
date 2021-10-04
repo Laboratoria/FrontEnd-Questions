@@ -1,0 +1,23 @@
+{
+  "name": "no-tests",
+  "version": "1.0.0",
+  "description": "An api without test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "jest",
+    "nodejs",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.2.4",
+    "lorem-ipsum": "^2.0.4"
+  }
+}

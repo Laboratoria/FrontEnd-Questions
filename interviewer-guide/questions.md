@@ -55,9 +55,9 @@ console.log('log 3');
    * Explica con un ejemplo cómo `.map` es distinto de `.filter`?
    * Explica con un ejemplo cómo funciona el método `.reduce`?
 
-## NodeJS
+## Node.js
 
-* ¿Qué es NodeJS y cómo se diferencia del JS en el explorador?
+* ¿Qué es Node.js y cómo se diferencia de JavaScript en el explorador?
 
 * Usando tus propias palabras, describe qué es y para que podemos usar el ENVIRONMENT
 
@@ -70,6 +70,41 @@ console.log('log 3');
 * ¿Has tenido experiencia usando los módulos FS y PATH? Para qué sirve cada uno?
 
 * ¿Has utilizado Socket.io? ¿Puedes describir su funcionalidad?
+
+* Dado el siguiente servidor HTTP implementado con Node.js, podrías explicar
+  qué significa que estamos _bloqueando el bucle de eventos (event loop)_ y
+  cómo podríamos hacer para evitar bloquearlo?
+
+  ```js
+  const { createServer } = require('http');
+  const { readFileSync } = require('fs');
+
+  const server = createServer((req, resp) => {
+    if (req.url === '/_') {
+      // Blocking the event loop...
+      return resp.end(readFileSync(__filename));
+    }
+
+    return resp.writeHead(404).end('Not found');
+  });
+
+  server.listen(3333);
+  ```
+
+* Dado el siguiente _módulo_ de Node.js, y asumiendo que `doSomethingAsync` sea
+  una función asíncrona que hace uso de un _callback_ al estilo de Node.js, qué
+  problema le ves esta implementación?
+
+  ```js
+  module.exports = (cb) => {
+    doSomethingAsync('some-value', (err, data) => {
+      if (err) {
+        cb(new Error('OMG'));
+      }
+      cb(null, { ok: true });
+    });
+  };
+  ```
 
 ## Docker
 

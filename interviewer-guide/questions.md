@@ -69,35 +69,35 @@ console.log('log 3');
 
 * ¿Has tenido experiencia usando los módulos FS y PATH? Para qué sirve cada uno?
 
-* Has utilizado Socket.io? Puedes describir su funcionalidad?
+* ¿Has utilizado Socket.io? ¿Puedes describir su funcionalidad?
 
 ## Docker
 
-* Qué es Docker?
+* ¿Qué es Docker?
 
-* Qué es una imagen/contenedor en Docker?
+* ¿Qué es una imagen/contenedor en Docker?
 
-* Para qué sirve Docker Compose?
+* ¿Para qué sirve Docker Compose?
 
-* Pudes describir algunas de las partes típicas de un docker-compose.yml?
+* ¿Pudes describir algunas de las partes típicas de un `docker-compose.yml`?
 
 ## ExpressJS
 
-* Qué es ExpressJS?
+* ¿Qué es ExpressJS?
 
-* Qué es una ruta?
+* ¿Qué es una ruta?
 
-* Qué es un middleware?
+* ¿Qué es un middleware?
 
-* Puedes mostrar un ejemplo de cómo agregar un middleware de forma global?
+* ¿Puedes mostrar un ejemplo de cómo agregar un middleware de forma global?
 
-* Puedes mostrar un ejemplo de cómo agregar un middleware a una sola ruta?
+* ¿Puedes mostrar un ejemplo de cómo agregar un middleware a una sola ruta?
 
-* Qué es CORS?
+* ¿Qué es CORS?
 
-* Qué conforma normalmente un controlador en ExpressJS?
+* ¿Qué conforma normalmente un controlador en ExpressJS?
 
-* Sabes qué significan las siglas CRUD?
+* ¿Sabes qué significan las siglas CRUD?
 
 * Qué es una API?
 

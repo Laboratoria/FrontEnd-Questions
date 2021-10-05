@@ -103,7 +103,7 @@ console.log('log 3');
 
 ## HTTP
 
-* Cómo describirías un request/response?
+* ¿Cómo describirías un request/response?
 
 * Qué son los Headers?
 

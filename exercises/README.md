@@ -170,5 +170,5 @@
 
   Este ejercicio está pensado en estudiantes que hayan hecho proyectos de CLI
   como [Markdown Links](https://github.com/Laboratoria/bootcamp/tree/main/projects/04-md-links)
-  o [Roman Numnerals](https://github.com/Laboratoria/bootcamp/tree/main/projects/05-roman-numerals)
+  o [Números romanos](https://github.com/Laboratoria/bootcamp/tree/main/projects/05-roman-numerals)
   usando Node.js.

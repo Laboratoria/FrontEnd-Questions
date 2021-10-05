@@ -144,3 +144,31 @@
 
   Este ejercicio se presta a sugerir explorar diferentes implementaciones, por
   ejemplo usando bucles, recursión, métodos de arreglos como `slice`, etc).
+
+- [**API sin probar**](./17-untested-api)
+
+  Dificultad: `media` / Etiquetas: `Node.js`, `Express`, `Jest`, `testing`.
+
+  La API que se te presenta contiene una sola ruta POST la cual espera recibir
+  un objeto JSON en el cuerpo (body) de la solicitud, y a su vez este objeto
+  debe contener la propiedad "length", la cual debe ser un número positivo
+  entero. Como respuesta la API provee un conjunto de palabras Lorem-Ipsum igual
+  a la cantidad indicada en la solicitud.
+
+  Este ejercicio está pensado para aquellas estudiantes que hayan hecho algún
+  proyecto de backend con Node.js/Express.
+
+- [**strsum CLI**](./18-strsum-cli)
+
+  Dificultad: `media` / Etiquetas: `Node.js`, `CLI`, `String`, `Logic`.
+
+  Implementa una herramienta de línea de comando (CLI) que dado un _string_,
+  calcule la suma de los códigos UTF-16 de cada uno de sus caracteres.
+
+  La herramienta debe poder recibir su input de 3 formas distintas: argv,
+  prompt y stdin via pipes.
+
+  Este ejercicio está pensado en estudiantes que hayan hecho proyectos de CLI
+  como [Markdown Links](https://github.com/Laboratoria/bootcamp/tree/main/projects/04-md-links)
+  o [Roman Numnerals](https://github.com/Laboratoria/bootcamp/tree/main/projects/05-roman-numerals)
+  usando Node.js.

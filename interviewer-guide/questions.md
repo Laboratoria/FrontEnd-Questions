@@ -65,7 +65,7 @@ console.log('log 3');
 
 * En el `package.json`, ¿para qué sirven los scripts?
 
-* Qué es NPM? y Cómo se usa?
+* ¿Qué es NPM? y ¿Cómo se usa?
 
 * Has tenido experiencia usando los módulos FS y PATH? Para qué sirve cada uno?
 

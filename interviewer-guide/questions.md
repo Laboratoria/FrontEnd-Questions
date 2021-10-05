@@ -61,7 +61,7 @@ console.log('log 3');
 
 * Usando tus propias palabras, describe qué es y para que podemos usar el ENVIRONMENT
 
-* Existe alguna diferencia entre dependencies y devDependencies en el package.json?
+* ¿Existe alguna diferencia entre dependencies y devDependencies en el package.json?
 
 * En el package.json, para qué sirven los scripts?
 

@@ -127,7 +127,7 @@ de pasarelas de pago.
 ## [Aplicación de Chat](https://github.com/Laboratoria/bootcamp/tree/main/projects/05-chat-app)
 
 El objetivo de este proyecto es crear una aplicación de mensajería instantánea (Frontend+Backend)
-utilizando la librería [Socker.io](https://socket.io/), un framework/librería
+utilizando la librería [Socket.io](https://socket.io/), un framework/librería
 (React / Angular / Vue) y automatizando despliegues mediante
 pipeline CI/CD (Github Actions)
 

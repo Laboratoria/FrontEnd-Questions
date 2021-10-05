@@ -19,6 +19,7 @@ describe('/lorem controller', () => {
       }
     }
 
+    expect.assertions(2);
     controller(req,res)
   })
 
@@ -39,6 +40,7 @@ describe('/lorem controller', () => {
       }
     }
 
+    expect.assertions(2);
     controller(req,res)
   })
 
@@ -58,6 +60,7 @@ describe('/lorem controller', () => {
         }
       }
     }
+    expect.assertions(2);
     controller(req,res)
   })
 
@@ -79,6 +82,8 @@ describe('/lorem controller', () => {
         }
       }
     }
+
+    expect.assertions(2);
     controller(req,res)
   })
 })

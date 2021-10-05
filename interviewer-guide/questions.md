@@ -54,3 +54,61 @@ console.log('log 3');
    * Explica con un ejemplo cómo `.map` es distinto de `.forEach`?
    * Explica con un ejemplo cómo `.map` es distinto de `.filter`?
    * Explica con un ejemplo cómo funciona el método `.reduce`?
+
+## NodeJS
+
+* ¿Qué es NodeJS y cómo se diferencia del JS en el explorador?
+
+* Usando tus propias palabras, describe qué es y para que podemos usar el ENVIRONMENT
+
+* ¿Existe alguna diferencia entre dependencies y devDependencies en el package.json?
+
+* En el `package.json`, ¿para qué sirven los scripts?
+
+* ¿Qué es NPM? y ¿Cómo se usa?
+
+* ¿Has tenido experiencia usando los módulos FS y PATH? Para qué sirve cada uno?
+
+* ¿Has utilizado Socket.io? ¿Puedes describir su funcionalidad?
+
+## Docker
+
+* ¿Qué es Docker?
+
+* ¿Qué es una imagen/contenedor en Docker?
+
+* ¿Para qué sirve Docker Compose?
+
+* ¿Pudes describir algunas de las partes típicas de un `docker-compose.yml`?
+
+## ExpressJS
+
+* ¿Qué es ExpressJS?
+
+* ¿Qué es una ruta?
+
+* ¿Qué es un middleware?
+
+* ¿Puedes mostrar un ejemplo de cómo agregar un middleware de forma global?
+
+* ¿Puedes mostrar un ejemplo de cómo agregar un middleware a una sola ruta?
+
+* ¿Qué es CORS?
+
+* ¿Qué conforma normalmente un controlador en ExpressJS?
+
+* ¿Sabes qué significan las siglas CRUD?
+
+* ¿A qué nos referimos cuando hablamos de una API REST o RESTful?
+
+## HTTP
+
+* ¿Cómo describirías un request/response?
+
+* ¿Qué son los Headers?
+
+* ¿Qué es el Body?
+
+* ¿Qué verbos HTTP conoces y para qué se usan?
+
+* ¿Qué son los códigos de estatus y cuáles conoces?

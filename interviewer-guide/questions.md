@@ -57,7 +57,7 @@ console.log('log 3');
 
 ## NodeJS
 
-* Qué es NodeJS y cómo se diferencia del JS en el explorador?
+* ¿Qué es NodeJS y cómo se diferencia del JS en el explorador?
 
 * Usando tus propias palabras, describe qué es y para que podemos usar el ENVIRONMENT
 

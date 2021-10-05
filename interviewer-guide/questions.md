@@ -111,4 +111,4 @@ console.log('log 3');
 
 * ¿Qué verbos HTTP conoces y para qué se usan?
 
-* Qué son los códigos de estatus y cuáles conoces?
+* ¿Qué son los códigos de estatus y cuáles conoces?

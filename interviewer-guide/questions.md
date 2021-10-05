@@ -99,7 +99,7 @@ console.log('log 3');
 
 * ¿Sabes qué significan las siglas CRUD?
 
-* Qué es una API?
+* ¿A qué nos referimos cuando hablamos de una API REST o RESTful?
 
 ## HTTP
 

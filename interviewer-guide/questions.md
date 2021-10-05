@@ -105,7 +105,7 @@ console.log('log 3');
 
 * ¿Cómo describirías un request/response?
 
-* Qué son los Headers?
+* ¿Qué son los Headers?
 
 * Qué es el Body?
 

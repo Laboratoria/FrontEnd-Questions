@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/Laboratoria/FrontEnd-Questions#readme",
   "dependencies": {
-    "jest": "^27.0.1",
+    "jest": "^27.2.4",
     "lorem-ipsum": "^2.0.4"
   }
 }

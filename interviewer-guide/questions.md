@@ -67,7 +67,7 @@ console.log('log 3');
 
 * ¿Qué es NPM? y ¿Cómo se usa?
 
-* Has tenido experiencia usando los módulos FS y PATH? Para qué sirve cada uno?
+* ¿Has tenido experiencia usando los módulos FS y PATH? Para qué sirve cada uno?
 
 * Has utilizado Socket.io? Puedes describir su funcionalidad?
 

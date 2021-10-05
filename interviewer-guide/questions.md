@@ -109,6 +109,6 @@ console.log('log 3');
 
 * ¿Qué es el Body?
 
-* Qué verbos HTTP conoces?
+* ¿Qué verbos HTTP conoces y para qué se usan?
 
 * Qué son los códigos de estatus y cuáles conoces?

@@ -63,7 +63,7 @@ console.log('log 3');
 
 * ¿Existe alguna diferencia entre dependencies y devDependencies en el package.json?
 
-* En el package.json, para qué sirven los scripts?
+* En el `package.json`, ¿para qué sirven los scripts?
 
 * Qué es NPM? y Cómo se usa?
 

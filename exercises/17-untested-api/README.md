@@ -3,7 +3,8 @@
 ## Descripción de la API
 
 La API que se te presenta contiene una sola ruta POST la cual
-espera recibir como parte de la solicitud "length" el cual debe
+espera recibir un objeto JSON en el cuerpo (body) de la solicitud, y a su vez
+este objeto debe contener la propiedad "length", la cual debe
 ser un número positivo entero. Como respuesta la API provee un
 conjunto de palabras Lorem-Ipsum igual a la cantidad indicada en
 la solicitud.

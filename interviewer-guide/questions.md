@@ -107,7 +107,7 @@ console.log('log 3');
 
 * ¿Qué son los Headers?
 
-* Qué es el Body?
+* ¿Qué es el Body?
 
 * Qué verbos HTTP conoces?
 

@@ -18,17 +18,15 @@ que las entrevistas técnicas suelen ser las más estresantes, así que la idea 
 simular un escenario _"crítico"_ que puedan encontrar en la vida real.
 
 Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
-a lo largo de la dinámica. Al final de la entrevista es necesario que vuelvas
-con feedback para las estudiantes (por correo electrónico), sobre su desempeño
-(en términos técnicos y de comunicación) y llenar un
-_scorecard_ ([Formato Excel](./interview-scorecard.xlsx) y
-[Google Sheets](https://docs.google.com/spreadsheets/d/1ZQyRf9Mv2ibMeTkrnJ0mhNBGLGcjOhRUH4MDqVF8vDk))
-con las notas de tu entrevista.
+a lo largo de la dinámica. Al final de la entrevista es necesario que envies _feedback por correo electrónico_ a las estudiantes sobre su desempeño
+y llenar un
+_scorecard_ ([Typeform](https://laboratoria.typeform.com/JA-techmock))
+con la evaluación de la entrevista que solo revisará el equipo de Laboratoria.
 
 Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
 adaptarlo y aplicarlo como creas conveniente.
 
-Imaginamos que cada entrevista debería durar entre **30~60min**.
+Imaginamos que cada entrevista debería durar entre **45~60min**.
 
 ## Contexto: Bootcamp
 
@@ -38,17 +36,22 @@ enlace al repositorio con las definiciones de los proyectos está
 
 Para que te sientas más cómodx, podemos resumir que su aprendizaje ha pasado
 por los siguientes temas:
+
 - HTML y semántica
 - CSS y componentes
 - JavaScript y asíncronía
 - Node.js
 - Pruebas unitarias
-- React / Angular / Vue
+- React
+
+Ahora bien, en nuestro modelo optamos por que el aprendizaje sea _self-paced._
+Eso quiere decir que intentamos que cada una de las estudiantes
+vaya a su ritmo por lo que es probable que su paso por los objetivos de aprendizaje (que arriba enumeramos) sea distinto para cada caso.
 
 La mayoría de los proyectos se ejecutan en equipos bajo el marco de trabajo
 Scrum, con algunas ceremonias necesarias (como dailies, retrospectivas, etc).
 
-Además de la currícula, hemos preparado un pequeño resumen de los
+Para este momento la mayoría de las estudiantes habrán desarrollado 4 proyectos así que además de la currícula, hemos preparado un pequeño resumen de los
 [proyectos](./projects.md) en caso quieras o necesites más contexto.
 
 ## Objetivo
@@ -72,9 +75,9 @@ totalmente diferentes y siempre vale la pena iniciar una conversación distendid
 para "romper el hielo" y que se sientan más cómodas.
 
 Puedes preguntarles sobre su trayectoria, los proyectos que ya han desarrollado
-y los puntos positivos/negativos de lo que han aprendido hasta ahora. También es
+y lo que han aprendido hasta ahora. También es
 interesante terminar la dinámica preguntando si la "postulante" tiene alguna
-duda sobre el mercado (ya que es algo muy nuevo para ella) y hacerle sentir
+duda sobre el mercado (ya que es algo muy nuevo para ella) y hacerla sentir
 bienvenida durante la dinámica.
 
 El espacio de simulación de la entrevista es totalmente abierto. Queremos que
@@ -108,7 +111,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
 
 - **Preguntas Conceptuales**
 
-  El objetivo de este espacio es entender el nivel de entendimiento de ciertos
+  El objetivo de este espacio es validar el nivel de entendimiento de ciertos
   conceptos por parte de la estudiante, asi cómo su capacidad de expresión
   usando términos técnicos.
 
@@ -156,16 +159,14 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
   - Recuerda que estamos "simulando" una entrevista real, por más que te mueras
     de ganas, intenta no brindarle _demasiada_ ayuda.
   - Ten en cuenta que estas entrevistas no son un _memory contest_, y que es
-    totalemnete válido si la estudiante acude a Google en busca de ayuda,
-    sobretodo si es documentación o foros. Observar claramente qué busca, nos
+    totalmente válido si la estudiante acude a Google en busca de ayuda,
+    sobre todo si es documentación o foros. Observar claramente qué busca, nos
     sirve para evaluar cómo investiga.
 
 - **Cierre**
 
   Aquí llega la entrevista a su fin, recuerda agradecerle por su tiempo y
-  recordarle, que dentro de un plazo que tu definas (intenta que no sea mayor
-  a una semana), le harás llegar por escrito a su correo el resultado y
-  feedback de la entrevista. Recuerda copiar en este correo al equipo de
+  recordarle que dentro de un plazo no mayor a 2 días, le harás llegar por escrito a su correo el feedback de la entrevista. Recuerda copiar en este correo al equipo de
   Laboratoria.
 
 - **Salida** (opcional)
@@ -174,41 +175,13 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
   feedback general sobre su desempeño o los puntos que consideres más
   relevantes, así como levantar sus percepciones y sensaciones de lo que acaba
   de suceder. Ten en cuenta que esta etapa **no reemplaza** al feedback por
-  escrito.
+  escrito que enviarás a su correo.
 
 ## Feedback
 
-Necesitaremos información al final de la dinámica. Teniendo esto en cuenta,
-hemos preparado dos recursos para ayudarte:
-- El primero es una _plantilla_, para que todas las estudiantes puedan tener
-  mas o menos la misma información.
-- El segundo es un _scorecard_ ([Formato Excel](./interview-scorecard.xlsx) y
-  [Google Sheets](https://docs.google.com/spreadsheets/d/1ZQyRf9Mv2ibMeTkrnJ0mhNBGLGcjOhRUH4MDqVF8vDk))
-  , para ayudarte a dejar tus notas y realizar la evaluación integral de la entrevista.
+Habrán 2 tipos de feedback que te pediremos al final de la dinámica, idealmente 1 a 2 días después de la simulación:
 
-Siéntete libre de adaptar estos recursos según consideres necesario. Pero vale
-la pena mantener siempre **un tono positivo** en la retroalimentación y tratar
-de proporcionar **información concreta** y, si es posible, **enlaces, recursos
-y/o contenidos** si crees que vale la pena que el estudiante se enfoque en los
-puntos que podría mejorar.
-
-### ¿Pasa o no pasa?
-
-  Para ayudarte en esa decisión existe el [_score card_](./score-card.xlsx),
-  pero consideramos que lo más importante es enfocarnos en lo siguiente:
-
-  - ¿Si estuviera en mis manos, la contrataría en este momento?
-  - ¿Me gustaría trabajar con esta persona?
-  - ¿Aportará en el equipo al que entra?
-
-  No siempre tienen que ser **Si** directamente en los tres, porque depende
-  mucho de la empresa y el equipo.
-
-  Para el caso de nuestras candidatas en **_Job Application_**, la idea es
-  determinar si _**Está preparada**_ para un proceso real, o si le recomendamos
-  _**Prepararse un poco más y volver a intentarlo**_.
-
-### Modelo de feedback para estudiante
+1)**Feedback hacia la estudiante** que enviarás por correo con algunos aspectos en concreto que te recomendamos:
 
 Siguiendo la estructura del scorecard, tómate un momento para dar tu feedback
 sobre cada bloque. Es muy importante que en cada sección refuerces tanto los aspectos positivos
@@ -240,17 +213,20 @@ algunas cosas, pero también mencionar que esto es algo normal. Incluso si
 quieres empatizar y mencionar lo que te ha ocurrido a ti y cómo lo trabajaste,
 sería genial.
 
+Vale la pena mantener siempre **un tono positivo** en la retroalimentación y tratar
+de proporcionar **información concreta** y, si es posible, **enlaces, recursos
+y/o contenidos** si crees que vale la pena que el estudiante se enfoque en los
+puntos que podría mejorar.
+  
+2)**Feedback hacia el equipo**, el que realizarás a través de un _score card_ ([Typeform](https://laboratoria.typeform.com/JA-techmock)) que te pedirá evaluar su desempeño en los distintos aspectos que integran la simulación y dejarnos recomendaciones para el equipo.
+
 ## Fin
 
-Gracias por ayudarnos en nuestra misión de hacer que el campo de la tecnología
-sea más inclusivo, sabemos que actuar como entrevistadorx no es una tarea fácil
-y realmente apreciamos el tiempo que has compartido con nosotras.
+Gracias por participar de la preparación de mujeres que sueñan con un futuro mejor y con comenzar una carrera transformadora en tecnología.
 
 Esta etapa del Bootcamp es extremadamente importante para las estudiantes y
-el impacto que personas como tú tienen en el crecimiento profesional de las
-estudiantes es enorme.
+el impacto que personas como tú tienen en su  crecimiento profesional es enorme.
 
-Si tiene **alguna pregunta**, por favor, no dudes en ponerte en contacto con
-nosotras.
+Si tienes **alguna pregunta**, por favor, no dudes en ponerte en contacto con el equipo.
 
-**De parte del equipo, nuestro más sincero agradecimiento 💛**.
+**De parte de Laboratoria, nuestro más sincero agradecimiento 💛**.

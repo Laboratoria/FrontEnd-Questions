@@ -12,10 +12,25 @@ a un número. Ese número se utiliza para encriptar/desencriptar el mensaje en l
 
 ### Objetivos de aprendizaje
 
-* CSS
-* Javascript Basics
-* Git & Github
-* Unit Testing
+- CSS
+- Javascript Basics
+- Git & Github
+- Unit Testing
+
+## [Tarjeta de crédito válida](https://github.com/Laboratoria/bootcamp/tree/main/projects/01-card-validation/)
+
+En este proyecto se construye una aplicación web que le permita a una usuaria
+validar el número de una tarjeta de crédito, la aplicación utiliza el algoritmo
+de Luhn para validar números de una tarjetas de crédito,etc.
+Además, se debe implementar funcionalidad para ocultar todos los dígitos de una
+tarjeta menos los últimos cuatro.
+
+### Objetivos de aprendizaje
+
+- CSS
+- Javascript Basics
+- Git & Github
+- Unit Testing
 
 ## [Data Lovers](https://github.com/Laboratoria/bootcamp/tree/main/projects/02-data-lovers/)
 
@@ -29,6 +44,19 @@ crear un sitio que muestre datos y estadísticas sobre esos personajes.
 - DOM y Web APIs
 - Manejo de estructuras de datos con JS
 - Consumo de API REST
+
+## [Memory Match](https://github.com/Laboratoria/bootcamp/tree/main/projects/02-memory-match/)
+
+En este proyecto se construye una versión web del juego Memory Match,
+en la que una jugadora pueda jugar sola, en el navegador y el objetivo
+principal de este proyecto es aprender a diseñar y construir una interfaz
+web basada en data e interacción con la usuaria.
+
+### Objetuvos de aprendizaje
+
+- DOM y Web APIs
+- Manejo de estructuras de datos con JS
+- Interfaz basada en componentes
 
 ## [Red Social](https://github.com/Laboratoria/bootcamp/tree/main/projects/03-social-network/)
 
@@ -58,6 +86,19 @@ mensaje de salida.
 - NodeJS
 - CLI
 - Unit Testing Avanzado
+
+## [Lab Notes](https://github.com/Laboratoria/CDMX011-lab-notes/)
+
+En este proyecto se construye una aplicación pensada para tomar notas en el
+día con día, una catacteristica esencial de este proyecto es que sera construido
+utilizando un framework/librería (React / Angular / Vue) por primera vez,
+aliándose con los conocimientos previos adquiridos (como Firebase) para
+desarollar la creación, lectura, actualizacion y borrado de una nota.
+
+### Objetivos de aprendizaje
+
+- Ganar experiencia con algun framework o libreria de desarrollo web
+  en JS: React o Angular o Vue
 
 ## [Burguer Queen](https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen/)
 

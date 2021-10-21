@@ -20,7 +20,7 @@ simular un escenario _"crítico"_ que puedan encontrar en la vida real.
 Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
 a lo largo de la dinámica. Al final de la entrevista es necesario que envies _feedback por correo electrónico_ a las estudiantes sobre su desempeño
 y llenar un
-_scorecard_
+_scorecard_ ([Typeform](https://laboratoria.typeform.com/JA-techmock))
 con la evaluación de la entrevista que solo revisará el equipo de Laboratoria.
 
 Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
@@ -36,6 +36,7 @@ enlace al repositorio con las definiciones de los proyectos está
 
 Para que te sientas más cómodx, podemos resumir que su aprendizaje ha pasado
 por los siguientes temas:
+
 - HTML y semántica
 - CSS y componentes
 - JavaScript y asíncronía
@@ -217,7 +218,7 @@ de proporcionar **información concreta** y, si es posible, **enlaces, recursos
 y/o contenidos** si crees que vale la pena que el estudiante se enfoque en los
 puntos que podría mejorar.
   
-2)**Feedback hacia el equipo**, el que realizarás a través de un _score card_ que te pedirá evaluar su desempeño en los distintos aspectos que integran la simulación y dejarnos recomendaciones para el equipo.
+2)**Feedback hacia el equipo**, el que realizarás a través de un _score card_ ([Typeform](https://laboratoria.typeform.com/JA-techmock)) que te pedirá evaluar su desempeño en los distintos aspectos que integran la simulación y dejarnos recomendaciones para el equipo.
 
 ## Fin
 

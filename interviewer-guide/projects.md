@@ -21,7 +21,7 @@ a un número. Ese número se utiliza para encriptar/desencriptar el mensaje en l
 
 En este proyecto se construye una aplicación web que le permita a una usuaria
 validar el número de una tarjeta de crédito, la aplicación utiliza el algoritmo
-de Luhn para validar números de una tarjetas de crédito,etc.
+de Luhn para validar números de una tarjetas de crédito, etc.
 Además, se debe implementar funcionalidad para ocultar todos los dígitos de una
 tarjeta menos los últimos cuatro.
 

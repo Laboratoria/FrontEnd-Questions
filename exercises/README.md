@@ -1,6 +1,6 @@
 # Ejercicios
 
-- [**Stringitis**](./01-stringitis)
+- [**Stringitis**](./01-stringtitis)
 
   Dificultad: `fácil` / Etiquetas: `String`
 

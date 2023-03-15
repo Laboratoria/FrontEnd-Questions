@@ -8,14 +8,13 @@ function minMaxDate(n) {
 
     return new Promise((resolve) => {
         Promise.all(datesPromises).then(dates => {
-            console.log(dates)
 
             const minMax = dates.reduce((result, date) => {
-                if (result.maxDate == 0 || date.getTime() > result.maxDate.getTime()) {
+                if (result.maxDate === 0 || date.getTime() > result.maxDate.getTime()) {
                     result.maxDate = date;
-                    return result
                 }
-                if (result.minDate == 0 || date.getTime() < result.minDate.getTime()) {
+
+                if (result.minDate === 0 || date.getTime() < result.minDate.getTime()) {
                     result.minDate = date;
                 }
 
@@ -29,6 +28,5 @@ function minMaxDate(n) {
 }
 
 module.exports = {
-    getDate,
     minMaxDate
 };

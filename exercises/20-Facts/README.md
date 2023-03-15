@@ -1,19 +1,26 @@
-# MinMax Date
 ## Step 1
-Implementa una función que consuma N veces la funcion `getDate` y de las fechas que recibiste obten la menor y la mayor
+Implementa una función que consuma N veces la funcion `getFact` y de los facts que recibiste obten el fact mas recientemente insertado y el fact mas largo
 
-la funcion `minMaxDate` debe retornar un objeto como este `{ minDate: Date, maxDate: Date}`
+la funcion `factStats` debe retornar un objeto como este 
+`{ 
+  newestFact: {
+    createdAt: dateObj,
+    fact: "string"
+  }, 
+  largestFact: {
+    createdAt: dateObj,
+    fact: "string"
+  }
+  sumary: {
+    total:num,
+    facts:[todos los facts]
+  }
+}`
+
+si la funcion getFact falla tu funcion debe tirar una expecion con el mensaje "Algo salio y no pude trater los facts" 
 
 ## Step 2
-en el archivo `boilerplate/minMaxDate.spec.js` completa el código faltante para que los `expects` se cumplan
+en el archivo `boilerplate/factStats.spec.js` completa el código faltante para que los `expects` se cumplan
 
 
-
-## Ejemplos
-
-```js
-maxMinDate(2) // --> {minDate:'01-01-2023', maxDate:'01-12-2023'}
-maxMinDate(10) // --> {minDate:'01-01-2023', maxDate:'01-12-2023'}
-```
-
-## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/main/02-tech-mentoring/exercises/19-Promise/boilerplate/)
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/main/02-tech-mentoring/exercises/18-Facts/boilerplate/)

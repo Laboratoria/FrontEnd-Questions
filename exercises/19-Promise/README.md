@@ -16,4 +16,4 @@ maxMinDate(2) // --> {minDate:'01-01-2023', maxDate:'01-12-2023'}
 maxMinDate(10) // --> {minDate:'01-01-2023', maxDate:'01-12-2023'}
 ```
 
-## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/main/02-tech-mentoring/exercises/19-Promise/boilerplate/)
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/main/02-tech-mentoring/exercises/17-Promise/boilerplate/)

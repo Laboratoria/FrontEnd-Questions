@@ -1,4 +1,3 @@
-const datesModule = require(".getDate");
 const minMaxDate = require("./minMaxDate");
 
 describe("minMaxDate", () => {

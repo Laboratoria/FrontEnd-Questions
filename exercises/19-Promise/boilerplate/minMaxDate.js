@@ -1,11 +1,11 @@
 /*
-Step 1
-Implemneta una funcion que consuma N veces la funcion getDate y de las fechas que recibiste obten la menos y la mayor
+## Step 1
+Implementa una función que consuma N veces la funcion `getDate` y de las fechas que recibiste obten la menor y la mayor
 
-la funcion minMaxDate debe retornar un objeto cpmo este {minDate: date, maxDate:Date}
+la funcion `minMaxDate` debe retornar un objeto como este `{ minDate: Date, maxDate: Date}`
 
-Step 2
-en el archivo minMasDate.spect completa el codigo faltante para que los expects se cumplan
+## Step 2
+en el archivo `boilerplate/minMaxDate.spec.js` completa el código faltante para que los `expects` se cumplan
 */
 const {getDate} = require("./getDate");
 

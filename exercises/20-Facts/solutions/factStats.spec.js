@@ -23,7 +23,7 @@ describe("factStats", () => {
     const result =  await factStats(3);
     expect(result.newestFact.createdAt.getTime()).toBe(new Date('1990-09-06').getTime());
     expect(result.largestFact.fact).toBe('Soy el mas largo');
-    expect(result.sumary.total).toBe(3);
+    expect(result.summary.total).toBe(3);
   });
 
   it("Si no puede obtener facts debe arrojar la excepcion 'Algo salio y no pude trater los facts'", async () => {

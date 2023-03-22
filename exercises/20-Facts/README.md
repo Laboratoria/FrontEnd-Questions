@@ -17,7 +17,7 @@ la funcion `factStats` debe retornar un objeto como este
   }
 }`
 
-si la funcion getFact falla tu funcion debe tirar una expecion con el mensaje "Algo salio y no pude trater los facts" 
+Si la función `getFact` falla, tu función debe tirar una excepción con el mensaje "Algo salio y no pude trater los facts" 
 
 ## Step 2
 en el archivo `boilerplate/factStats.spec.js` completa el código faltante para que los `expects` se cumplan

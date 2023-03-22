@@ -12,7 +12,7 @@ la funcion `factStats` debe retornar un objeto como este
     createdAt: dateObj,
     fact: "string"
   }
-  sumary: {
+  summary: {
     total:num,
     facts:[todos los facts]
   }

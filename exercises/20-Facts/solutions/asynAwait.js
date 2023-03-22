@@ -15,7 +15,7 @@ async function factStats(n) {
         createdAt: null,
         fact: ''
       },
-      sumary: {
+      summary: {
         total: 0,
         facts: []
       }
@@ -23,8 +23,8 @@ async function factStats(n) {
 
     try {
       const facts = await Promise.all(factPromises);
-      result.sumary.total = facts.length;
-      result.sumary.facts = facts;
+      result.summary.total = facts.length;
+      result.summary.facts = facts;
 
       facts.forEach(fact => {
         const factDate = new Date(fact.createdAt)
